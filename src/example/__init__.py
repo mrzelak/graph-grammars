@@ -1,6 +1,7 @@
 from example import (
     graph_creation,
     monomorphism,
+    production_0,
     production_1,
     production_2,
     production_5,
@@ -18,6 +19,7 @@ from example import (
 __all__ = (
     graph_creation,
     monomorphism,
+    production_0,
     production_1,
     production_2,
     production_5,
